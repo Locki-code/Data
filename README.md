@@ -2,7 +2,7 @@
 
 ## Formation
 
-### Cycle d'ingénieur
+### Cycle d'ingénieur en alternance
 
 Ecole d'ingénieur JUNIA ISEN Lille - France
 Institut supérieur de l'électronique et du numérique
@@ -27,7 +27,7 @@ Lycée Henri DARRAS à Lièvin - France
 
 ## Expérience
 
-### Ingérnieur DATA/IA - Vade
+### Ingénieur DATA/IA - Vade
 
 #### Hem - France
 
@@ -45,37 +45,37 @@ Avril 2021 - Aout 2022
 - Conception d'API web
 - Gestion de projet
 
-### Stage Technicien Informatique - Microdif
+<!-- ### Stage Technicien Informatique - Microdif
 
 #### Lens - France
 
 Juin 2017
 
 - Maintenance de systèmes informatiques
-- Renseignement et conseil auprès de la clientèle
+- Renseignement et conseil auprès de la clientèle -->
 
-### Employé polyvalent - Biocoop
+<!-- ### Employé polyvalent - Biocoop
 
 #### Albertville - France
 
 Juin 2020 - Aout 2020
 
 - Mise en rayon
-- Service arrière (Boulangerie, Fromagerie, Traiteur, Boucherie et Poissonnerie)
+- Service arrière (Boulangerie, Fromagerie, Traiteur, Boucherie et Poissonnerie) -->
 
-### Préparateur de commande - Scap-Artois
+<!-- ### Préparateur de commande - Scap-Artois
 
 #### Saint-Laurent-Blangy - France
 
 Octobre 2019
 
-- Préparation de commande par éclatement
+- Préparation de commande par éclatement -->
 
 ## Centre d'intérêt
 
 - Mécanique
   - Rénovation d'une 4L pour le 4L Trophy
-  - Préparation de Kart
+  - Préparation d'un Kart personnel pour le loisir
 - Course Automobile
 - Jeux vidéos
 
@@ -99,8 +99,18 @@ Octobre 2019
   - Javascript / Typescript
   - Python
   - SQL
-  - Java
   - C / C++ / C#
   - Bash / Shell
-- Git
+  - Java
+  <!-- - PHP -->
+  - Assembleur
+<!-- - Framework / Librairie
+  - NodeJS
+  - NestJS
+  - React
+  - Vue
+  - Angular
+  - Symphony
+  - Laravel -->
+- Git / Github / Gitlab
 - Electronique embarquée
