@@ -10,6 +10,9 @@ Institut supérieur de l'électronique et du numérique
 
 - Projet de recherche : Electronique embarquée Automobile
 
+- Membre du Bureau Des Etudiants
+- Secrétaire de l'association Racing Kart JUNIA
+
 ### Licence professionnelle conception et developpement d'applications web et mobiles
 
 IUT de Saint-Quentin - France
@@ -33,8 +36,9 @@ Lycée Henri DARRAS à Lièvin - France
 
 Septembre 2022 - Aujourd'hui
 
-- Extraction de données
-- Création de modèle de machine learning
+- Recherche des possibilités d'améliorations des modèles de machine learning existants avec ce qu'il ce fait dans le domaine (Etat de l'art)
+- Optimisation de l'utilisation des données extraitent dans le but de renforcer la précision des prédictions
+- Réalisation d'une interface connecté à un serveur avec système de file d'attente
 
 ### Développeur Web - APIZR
 
@@ -43,7 +47,12 @@ Septembre 2022 - Aujourd'hui
 Avril 2021 - Aout 2022
 
 - Conception d'API web
+  - Recherche de solution pour répondre à la demande client
+  - Réalisation avec normalisation pour la maintenance et les futures évolutions (Future proof)
+  - Mise en place d'une procédure de mise en production
 - Gestion de projet
+  - Suivie d'avancement
+  - Planification et assignement de tâches 
 
 <!-- ### Stage Technicien Informatique - Microdif
 
@@ -74,10 +83,15 @@ Octobre 2019
 ## Centre d'intérêt
 
 - Mécanique
-  - Rénovation d'une 4L pour le 4L Trophy
-  - Préparation d'un Kart personnel pour le loisir
+  - Rénovation d'une 4L
+  - Apprentissage en autodidacte
 - Course Automobile
-- Jeux vidéos
+  - Préparation d'un Kart personnel pour le loisir
+- Electronique
+  - Réalisation d'un système de contrôle pour 4L
+    - Analyse des points vitaux
+    - Suivie des maintenances
+    - Assistance de dépannage
 
 ## Informations
 
@@ -85,7 +99,7 @@ Octobre 2019
 - Mobilité : France
 - Tel : 06 30 03 22 78 - 07 66 56 00 05
 - Mail : loick.mercier7@gmail.com
-- Permis B et A2 Véhiculé
+- Permis A et B Véhiculé
 - [Linkedin](linkedin.com/in/loïck-mercier)
 
 ## Langues
@@ -93,7 +107,7 @@ Octobre 2019
 - Français : Lanque maternelle
 - Anglais : Intermédiaire (B2)
 
-## Compétences
+## Compétences informatique
 
 - Language de programmation
   - Javascript / Typescript
@@ -114,3 +128,15 @@ Octobre 2019
   - Laravel -->
 - Git / Github / Gitlab
 - Electronique embarquée
+
+## Softskill
+
+- Ambitieux
+- Rigoureux
+- Persévérant
+- Adaptabilité
+
+## Hardskill
+
+- Lecture d'une documentation technique
+- Créer et appliquer une procédure
