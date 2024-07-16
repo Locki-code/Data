@@ -6,12 +6,12 @@
 
 Ecole d'ingénieur JUNIA ISEN Lille - France
 Institut supérieur de l'électronique et du numérique
-2022 - Aujourd'hui
+2022 - 2025
 
 - Projet de recherche : Electronique embarquée Automobile
 
-- Membre du Bureau Des Etudiants
-- Secrétaire de l'association Racing Kart JUNIA
+- Membre du Bureau Des Etudiants de l'ISEN 2024 - 2025
+- Secrétaire de l'association Racing Kart JUNIA 2023 - 2024
 
 ### Licence professionnelle conception et developpement d'applications web et mobiles
 
@@ -36,9 +36,9 @@ Lycée Henri DARRAS à Lièvin - France
 
 Septembre 2022 - Aujourd'hui
 
-- Recherche des possibilités d'améliorations des modèles de machine learning existants avec ce qu'il ce fait dans le domaine (Etat de l'art)
-- Optimisation de l'utilisation des données extraitent dans le but de renforcer la précision des prédictions
-- Réalisation d'une interface connecté à un serveur avec système de file d'attente
+- Exploration des méthodes récentes pour améliorer les modèles de machine learning existants.
+- Optimisation de l'utilisation des données extraites pour améliorer la précision des prédictions.
+- Développement d'une interface connectée à un serveur avec un système de gestion de file d'attente.
 
 ### Développeur Web - APIZR
 
@@ -48,11 +48,12 @@ Avril 2021 - Aout 2022
 
 - Conception d'API web
   - Recherche de solution pour répondre à la demande client
-  - Réalisation avec normalisation pour la maintenance et les futures évolutions (Future proof)
-  - Mise en place d'une procédure de mise en production
+  - Réalisation avec normalisation pour la maintenance et l'amélioration continue
+  - Mise en place de procédures de mise en production
 - Gestion de projet
-  - Suivie d'avancement
-  - Planification et assignement de tâches 
+  - Relation avec les clients pour identifier leurs besoins
+  - Suivi de l'avancement des sprints
+  - Planification des tâches et des déploiements en production
 
 <!-- ### Stage Technicien Informatique - Microdif
 
@@ -83,7 +84,7 @@ Octobre 2019
 ## Centre d'intérêt
 
 - Mécanique
-  - Rénovation d'une 4L
+  - Rénovation et préparation d'une Renault 4 pour le 4L Trophy
   - Apprentissage en autodidacte
 - Course Automobile
   - Préparation d'un Kart personnel pour le loisir
@@ -104,8 +105,8 @@ Octobre 2019
 
 ## Langues
 
-- Français : Lanque maternelle
-- Anglais : Intermédiaire (B2)
+- Français : Langue maternelle
+- Anglais : Intermédiaire (B2 - intermédiaire)
 
 ## Compétences informatique
 
@@ -128,6 +129,9 @@ Octobre 2019
   - Laravel -->
 - Git / Github / Gitlab
 - Electronique embarquée
+  - BUS I2C
+  - Micro-contrôleur
+  - 
 
 ## Softskill
 
